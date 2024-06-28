@@ -1,0 +1,6 @@
+[submodule "freud"]
+	path = freud
+	url = https://github.com/sufferfish/freud
+[submodule "nietzsche"]
+	path = nietzsche
+	url = https://github.com/sufferfish/nietzsche
